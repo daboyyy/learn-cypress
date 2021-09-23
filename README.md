@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![alt text](https://github.com/jiniusz/learn-cypress/blob/main/main/public/learn-cypress.png?raw=true)
+
 ## Getting Started
 
 First, run the development server:
